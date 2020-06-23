@@ -157,4 +157,4 @@ bot.on("message", message => {
     }
 });
 
-bot.login("Token");
+bot.login("NzI0NTg3NjY4OTg1MzQ4MDk3.XvCW4g.Ymf0lHBzRXVpHBr2tgUqTvCbgOc");
